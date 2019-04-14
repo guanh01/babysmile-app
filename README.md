@@ -1,6 +1,8 @@
 # baby_smile
 
-A new Flutter application.
+Automatically take a picture by saying "cheese".
+ 
+
 
 ## Getting Started
 
